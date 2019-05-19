@@ -84,3 +84,27 @@ Execute the ruby code but don't insert anything into the file.  This is for ruby
 
 There is a different tag <%= %> this will print the results into the template file.
 This can be used within plain text files like /etc/motd, but it can also be used for code such as /var/www/html/index.html
+
+===
+
+There's tools for testing, including integration testing (test kitchen) and unit testing (chef spec)
+
+Integration Testing : test kitchen = inspec : inside a running machine (eg. virtual machine) | tests the state of the converged node
+https://www.inspec.io/tutorials/
+
+* External Dependencies
+
+Unit Testing: chefspec = rspec : in-memory : testing the resource collection
+https://docs.chef.io/chefspec.html
+https://github.com/chefspec/chefspec
+
+* No external dependencies
+* We examine the resource collection - all recipes are loaded in memory, it builds a to-do list, which is a resource collection.  This is executed during convergence.  
+* Have a defined all my packages?
+* Did I write the recipes correctly?
+* This is an extension of rspec ... it adds some helper methods.  ``chef exec rspec``
+
+
+ChefDK can be extended using 'chef gem' to install rubygems within the embedded chef environment.
+Knife plugins can extend knife functionality.
+Ohai also has plugins and hints to extend functionality
