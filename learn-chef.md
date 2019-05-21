@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Learning Chef
+date: 2019-05-21
+author: Daniel Chang
 ---
 # [Learning Chef](https://www.chef.io/)
 
