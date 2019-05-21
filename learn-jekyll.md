@@ -83,3 +83,4 @@ title: great web agency
 * Udemy - [Jana Bergant](https://www.udemy.com/user/jana-bergant/) [Jekyll: make fast, secure static sites and blogs with Jekyll](https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll)
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet)
+* DevHints.IO [Cheat Sheet](https://devhints.io/jekyll)
