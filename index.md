@@ -39,6 +39,6 @@ author: Daniel Chang
 
 ## Reading List
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
-- https://webdesign.tutsplus.com/tutorials/twitter-bootstrap-101-introduction--webdesign-5459
-- https://dzone.com/articles/continuous-integration-and-delivery-to-aws-kuberne
-- https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+- (https://webdesign.tutsplus.com/tutorials/twitter-bootstrap-101-introduction--webdesign-5459)
+- (https://dzone.com/articles/continuous-integration-and-delivery-to-aws-kuberne)
+- (https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
