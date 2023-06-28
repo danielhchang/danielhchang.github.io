@@ -28,9 +28,9 @@ author: Daniel Chang
 
 ### Coding
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Bootstrap](learn-bootstrap.html)
+- [Bootstrap Notes](learn-bootstrap.html)
 - [Udemy - Bootstrap 4 Beginners Course](https://www.udemy.com/bootstrap-4-beginners-code-a-responsive-landing-page/)
-- [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- [Official Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com)
 - [Animate.CSS](https://daneden.github.io/animate.css/)
