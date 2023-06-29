@@ -24,8 +24,9 @@ twitter_username: danielhchang
 github_username:  danielhchang
 
 # Build settings
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 # theme: jekyll-theme-cayman
+theme: just-the-docs
 markdown: kramdown
 plugins:
   - jekyll-feed
